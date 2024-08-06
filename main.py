@@ -1,3 +1,5 @@
+"""main module - home page for streamlit"""
+
 import streamlit as st
 from database import Database
 
